@@ -1,0 +1,13 @@
+name = "Create Goggles"
+filename = "creategoggles-1.20.1-0.5.6-[FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1RT5SJc/versions/tOvw9ccm/creategoggles-1.20.1-0.5.6-%5BFABRIC%5D.jar"
+hash-format = "sha512"
+hash = "1949f0d2a0fc43f242fc0200c1fc99d407ce668c4bc1da3f1a4dba06a38b4177004d0d17ca3e234cdd1cdaf154c3721a7ac3207d9724ad7fac4947933ba0aa97"
+
+[update]
+[update.modrinth]
+mod-id = "L1RT5SJc"
+version = "tOvw9ccm"
