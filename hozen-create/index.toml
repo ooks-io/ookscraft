@@ -26,6 +26,11 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "e0fe3a15675b2f6ad147699a546a09bccd45492df57f721ffa524a2f5b380595"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
+metafile = true
+
+[[files]]
+file = "mods/create-better-villagers.pw.toml"
+hash = "386053e559e8d1c3439a8fe5f988740ed82c4f0bb29565d18fcc8b8c8872e3eb"
 metafile = true
 
 [[files]]
@@ -101,6 +111,11 @@ hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "4dbfc7d3ec58848f2978856ef4069e96c4ac0eb303d2a534085d681f6ab4cef6"
+metafile = true
+
+[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "9ccef182f9ef60d4dd5e093430c372098b45809d0468aedda6e43011a9c89b87"
 metafile = true
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
 metafile = true
 
 [[files]]
@@ -201,8 +221,18 @@ hash = "023f796abcac1d1719e04bca0767d9b90814d98176fca70c8b8ac0ad39b7f769"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "95c6186b4eb881f1bf6beea9aedefcc73388e4c301754e65722d85764243318b"
+metafile = true
+
+[[files]]
+file = "mods/loot-journal.pw.toml"
+hash = "6eccef9382086e4b0217f355eb5fabc313603f897c7b143f148ba69695527f02"
 metafile = true
 
 [[files]]
@@ -221,8 +251,18 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
