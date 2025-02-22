@@ -3,31 +3,39 @@
     pkgs,
     lib,
     ...
-  }: {
+  }: let
+    inherit (lib) importTOML;
+    hash = "sha256-sNwngt5/P41zgmj5Ws52jJ0+sGGBxj3eHY0wEYWCE3A";
+  in {
     packages = {
       # credit to https://github.com/pedorich-n/MinecraftModpack
       mrpack = pkgs.stdenvNoCC.mkDerivation (finalAttrs: let
-        inherit (lib) importTOML;
         inherit (finalAttrs.passthru.manifest) version;
-
         pname = lib.strings.sanitizeDerivationName finalAttrs.passthru.manifest.name;
         finalName = "${pname}-${version}.mrpack";
-        src = "${self}/src";
       in {
-        inherit src version pname;
-        nativeBuildInputs = [pkgs.packwiz];
+        outputHashMode = "recursive";
+        outputHashAlgo = "sha256";
+        outputHash = hash;
+        inherit pname version;
+        src = "${self}/src";
+        dontFixup = true;
+
+        nativeBuildInputs = [pkgs.packwiz pkgs.strip-nondeterminism];
 
         buildPhase = ''
           runHook preBuild
           export HOME=$TMPDIR
-          result="$out/${finalName}"
+
           mkdir -p $out
-          packwiz mr export --output "$result"
+
+          packwiz modrinth export --output "$out/${finalName}"
+          strip-nondeterminism --type zip "$out/${finalName}"
+
           runHook postBuild
         '';
-        dontInstall = true;
 
-        passthru.manifest = importTOML "${src}/pack.toml";
+        passthru.manifest = importTOML ../src/pack.toml;
       });
     };
   };
