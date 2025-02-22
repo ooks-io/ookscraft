@@ -2,10 +2,8 @@ name: Create modrith modpack release
 on:
   workflow_dispatch:
   push:
-    branches:
-      - master
-    paths:
-      - "src/*"
+    tags:
+     - "v*"
 
 jobs:
   build:
