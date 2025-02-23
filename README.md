@@ -1,6 +1,110 @@
 <h1 align=center> ookscraft </h1>
-<p align= center>Create based minecraft modpack.</p>
-
-Powered by
+<p align=center><a href="https://modrinth.com/mod/create-fabric">Create mod</a> focused minecraft modpack powered by <a href="https://packwiz.infra.link">packwiz</a> and <a href="https://nixos.org">nix</a>.</p>
+<p align=center> ・<strong>Minecraft Version</strong>: 1.20.1 | ・<strong>Mod Loader</strong>: Fabric 0.16.10</p>
 
 ## List of mods
+
+- 3D crops Revamped
+- 3D Models (UltiCraft Sandalone)
+- 3D Redstone Wires
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- AppleSkin
+- Architectury API
+- AzureLib
+- bad packets
+- Better Third Person
+- BetterGrassify
+- Bridging Mod
+- Chalk (Fabric)
+- Chunky
+- ClickThrough Plus
+- Cloth Config API
+- Comforts
+- Companion 🐕
+- Complementary Shaders - Reimagined
+- Concurrent Chunk Management Engine (Fabric)
+- Create Crafts & Additions
+- Create Deco
+- Create Enchantment Industry Fabric
+- Create Fabric
+- Create Goggles
+- Create Jetpack
+- Create Ore Excavation
+- Create Utilities
+- Create: Bells & Whistles
+- Create: Better Villagers
+- Create: Copycats+
+- Create: Extended Cogwheels
+- Create: Framed
+- Create: Power Loader (Fabric)
+- Create: Steam 'n' Rails
+- Create: Trading floor
+- Cull Leaves
+- Dungeons and Taverns
+- Easy Anvils
+- Easy Magic
+- Effective
+- Entity Culling
+- Fabric API
+- Fabric Language Kotlin
+- Farmer's Delight Refabricated
+- Forge Config API Port
+- Friends & Foes (Fabric/Quilt)
+- Fusion (Connected Textures)
+- Geckolib
+- ImmediatelyFast
+- Indium
+- Inventory Management
+- Iris & Oculus Flywheel Compat
+- Iris Shaders
+- JourneyMap
+- Just Enough Items
+- Kiwi 🥝
+- Konkrete
+- Lithium
+- Lithostitched
+- Loot Journal
+- Melody
+- Memory Leak Fix
+- Mobs of Mythology
+- Mod Menu
+- ModernFix
+- More Culling
+- Motschen's Better Leaves
+- Mouse Tweaks
+- Mythic Mounts
+- Naturalist
+- No Chat Reports
+- Noisium
+- Patchouli
+- Puzzles Lib
+- RAY's 3D Ladders
+- RAY's 3D Rails
+- ReFramed
+- Remodeled Doors 3D
+- SmartBrainLib
+- Sodium
+- Sophisticated Backpacks (Unoffical Fabric port)
+- Sophisticated Core (Unofficial Fabric port)
+- Sparse Structures
+- Tectonic
+- TerraBlender
+- Terralith
+- Trade Cycling
+- Vanilla Refresh
+- Wildlife [Fabric]
+- WTHIT
+- YetAnotherConfigLib (YACL)
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Jungle Temples
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Cave Biomes
+- YUNG's Cave Biomes Delight
+- YUNG's Extras
