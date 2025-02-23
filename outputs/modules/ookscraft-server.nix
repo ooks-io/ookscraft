@@ -3,12 +3,11 @@
   config,
   pkgs,
   inputs,
-  self,
   ...
 }: let
   inherit (lib) mkIf importTOML replaceStrings mkEnableOption;
   inherit (builtins) attrValues;
-  src = "${self}/src";
+  src = "../../src";
 
   # modified fetchPackwizModpack to use local modpack instead of url
   # credit to https://github.com/sunziping2016/flakes
