@@ -54,7 +54,7 @@ in {
       servers.ookscraft = {
         enable = true;
         openFirewall = true;
-        autoStrart = true;
+        autoStart = true;
         whitelist = {
           ooksmoney = "ca8dae88-9b2c-4c17-9604-971219b70b9d";
         };
