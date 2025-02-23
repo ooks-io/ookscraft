@@ -1,0 +1,13 @@
+name = "3D Redstone Wires"
+filename = "Redstone 3D Numbered.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tIgl7EnR/versions/yXcG97Vd/Redstone%203D%20Numbered.zip"
+hash-format = "sha512"
+hash = "302f226ec2ae5551eee693ad67707d753f5d658180a19f0512fc611519625b069f3733e098656afcf17435ec361121b02f79c2be0a6588e026278e0847f3a28f"
+
+[update]
+[update.modrinth]
+mod-id = "tIgl7EnR"
+version = "yXcG97Vd"

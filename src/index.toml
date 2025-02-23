@@ -11,6 +11,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
@@ -21,8 +26,18 @@ hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "69a54ca57e0100c7c8175610f346aba7035e06f564ca075f5428faa45b289de4"
 metafile = true
 
 [[files]]
@@ -33,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "e0fe3a15675b2f6ad147699a546a09bccd45492df57f721ffa524a2f5b380595"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
@@ -136,6 +156,16 @@ hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
 metafile = true
@@ -173,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "a72cc43ba88e8192e1c1ca42df76c4cc4739fe482985ed1e3259a28647c22fe7"
 metafile = true
 
 [[files]]
@@ -226,6 +266,11 @@ hash = "023f796abcac1d1719e04bca0767d9b90814d98176fca70c8b8ac0ad39b7f769"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -241,8 +286,18 @@ hash = "6eccef9382086e4b0217f355eb5fabc313603f897c7b143f148ba69695527f02"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "3db1a41b128f7055a53dde0057880abd6fe868ea3aa5c6fbe2dc554083f526ef"
 metafile = true
 
 [[files]]
@@ -266,6 +321,16 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
@@ -276,8 +341,23 @@ hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
+metafile = true
+
+[[files]]
 file = "mods/reframed.pw.toml"
 hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
 metafile = true
 
 [[files]]
@@ -326,8 +406,18 @@ hash = "f6058827d13219b89e1f2a15ce02ebf5bc86482e4b6971520627c32232545577"
 metafile = true
 
 [[files]]
+file = "mods/wildlife-fabric.pw.toml"
+hash = "6110a721acb5ed26ac1514767c6150b42801cf5d507deaf0ce055daece2cbb95"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "7c1f9f658145f2a708961fb5fe2ac131b0cdf9108ba7e05fc28ba0a4ccfa77d7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "88121fbabab3563f8dbb84a32347c753d23eec466c1df3225570cdb42e251029"
 metafile = true
 
 [[files]]
@@ -386,8 +476,47 @@ hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
 
 [[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "81961857f0fe39655790c30686914d04d4157b7408a6bf54fe36b682446449d7"
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gn-redstone3d.pw.toml"
+hash = "3549ea31c1a7d9b6d68beb17694c14ac7da3584e598403ef67fb9a0710e94c7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "11c15996efdc69b6361e896039b5544fd5169f50351ba81e43c6bc8bb0b653fd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "b324fa5856fb4084b0b8302e4254f4ac3fc7f7dbcffccbd654142ff719814443"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remodeled-doors.pw.toml"
+hash = "31c1e56258fad71ef021bf42d2505e5e33b618c94094654f40609c6852531044"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ulticraft-models-3d.pw.toml"
+hash = "ee8d4b2fdde4aa669bae9cbdf09e5c79bfaf5aec0e868be304a857f66a9a1397"
 metafile = true
 
 [[files]]

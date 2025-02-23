@@ -1,12 +1,12 @@
 name = "ookscraft"
 author = "ooks"
-version = "0.3.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8c8718ee2eac0c052d31bf98b98282c0db1a3dd286bd30d782d9bbe408a4c517"
+hash = "f74015a143f79db332b9308beba743b8b50e66e6feb0e5759df17117ac57a54c"
 
 [versions]
 fabric = "0.16.10"

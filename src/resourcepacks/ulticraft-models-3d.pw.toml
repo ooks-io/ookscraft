@@ -1,0 +1,13 @@
+name = "3D Models (UltiCraft Sandalone)"
+filename = "UltiCraft-Models3D-2.44.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ejmzg9VI/versions/yuE1gKin/UltiCraft-Models3D-2.44.0.zip"
+hash-format = "sha512"
+hash = "6aa7e5de21cf33f909d44db4a2281a5f0ceeae529ad8a7f857302ea1d2a769108119fd8761c619fa1698c481c375ac707963703a807d3bd206c8d3a919afde9b"
+
+[update]
+[update.modrinth]
+mod-id = "ejmzg9VI"
+version = "yuE1gKin"
