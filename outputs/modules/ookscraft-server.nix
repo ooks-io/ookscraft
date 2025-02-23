@@ -71,6 +71,10 @@ in {
           whitelist = true;
           difficulty = "hard";
           gamemode = "survival";
+
+          view-distance = 16;
+          simulation-distance = 8;
+          allow-flight = true;
         };
       };
     };
