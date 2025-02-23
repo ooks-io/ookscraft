@@ -14,7 +14,7 @@
   # credit to https://github.com/sunziping2016/flakes
   localPackwizModpack = {src, ...} @ args:
     (pkgs.fetchPackwizModpack ({url = "";} // args)).overrideAttrs (old: {
-      buildInputs = attrValues {inherit (pkgs) js jre_headless moreutils;};
+      buildInputs = attrValues {inherit (pkgs) jq jre_headless moreutils;};
       buildPhase = ''
         java -jar "$packwizInstallerBootstrap" \
           --bootstrap-main-jar "$packwizInstaller" \
