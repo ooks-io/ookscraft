@@ -5,7 +5,7 @@
     ...
   }: let
     inherit (lib) importTOML;
-    hash = "sha256-iJq4o3bqi9UETgmSFaHZVcqj6xmEWVQFpzK+ZJcwntM=";
+    hash = "sha256-jQDNiR2amK5NwbERGhPYV+5ZEMQrVxZaEiuCFnu/IiM=";
   in {
     packages = {
       # credit to https://github.com/pedorich-n/MinecraftModpack

@@ -81,6 +81,8 @@ shaders), right click the instance and select `Edit`.
 - [3D Redstone Wires](https://modrinth.com/resourcepack/gn-redstone3d)
 - [Remodeled Doors 3D](https://modrinth.com/resourcepack/remodeled-doors)
 - [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
+- [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
+- [Compact Font](https://modrinth.com/resourcepack/compact-font)
 
 #### Shaders
 
@@ -111,6 +113,14 @@ shaders), right click the instance and select `Edit`.
 - [Effective](https://modrinth.com/mod/effective)
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
 - [Iris Shaders](https://modrinth.com/mod/iris)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects)
+
+##### Sounds
+
+- [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
+- [Sound](https://modrinth.com/mod/sound)
 
 ##### Optimization
 
@@ -150,6 +160,8 @@ shaders), right click the instance and select `Edit`.
 - [TerraBlender](https://modrinth.com/mod/terrablender)
 - [YACL](https://modrinth.com/mod/yacl)
 - [YUNG's API](https://modrinth.com/mod/yungs-api)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [M.R.U](https://modrinth.com/mod/mru)
 
 ##### Admin
 
@@ -176,6 +188,7 @@ shaders), right click the instance and select `Edit`.
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [ModernFix](https://modrinth.com/mod/modernfix)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
 
 ##### World generation
 

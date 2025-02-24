@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "5c2f6ff94ecd19b3457d3f0cc1a05c0fa0d746066e91e19c680109fc2b53e3b7"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.core.config"
+hash = "a7dcf75130a5cc65a27dbb023c18b4514ec0c36eca92ff95027806f0395a36c1"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.fullmap.config"
+hash = "8afcfee8f37123cb19a2939cda184cec089cdc43c793064d95b0732c7ffb0825"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap.config"
+hash = "898961be4d5a57fd1be952cf0c4f42b88cecee24cb0a77ae659d6daa87010e39"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap2.config"
+hash = "28389610e2fda4c7f0c37e3ecf2a1f0e82edffaae5c4ffd49a79053e89b1f20d"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.topo.config"
+hash = "9e273064e62c540e09d104258a8ea0d88e8dd9e2c2e22605b243f92f33f39847"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.waypoint.config"
+hash = "ef311d5f27219bd7fb76a2c794ae8523efa3b953328455974cc5625121ab0467"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.webmap.config"
+hash = "ad9171d84097bd584a05a9d3aabb41ec24ec87e88e005c5cbb347ac359b85512"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -151,6 +183,11 @@ hash = "b553ce6ead6f892aeb71cc7dd1e808cf21c74bbcf0db076dc76e394157f9f59a"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -206,6 +243,11 @@ hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
@@ -221,6 +263,11 @@ hash = "7c1df77db24422fd03b77faca8e1752196021bdd53f71e9174509ea4ef2a7764"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
@@ -228,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
+metafile = true
+
+[[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
 
 [[files]]
@@ -321,6 +373,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
 metafile = true
@@ -338,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "f7cc92b62ddea918624ece8bab499bdb3829d13b16551f0df0377b7a0c51841b"
 metafile = true
 
 [[files]]
@@ -376,8 +438,18 @@ hash = "61b303ae5b7ff238c9ac2528617d80c2ea506268f894d72d0b444c4c2cc3da50"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "36e01db593f1e01ad0e6cb2d437f6e6b60a982997ff1cc1cfde197d84a7c8505"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "9bfa8111de5b03a1eaa3b875b56a0a89fe4501e0bdf88b47eb134e68f9de99ce"
 metafile = true
 
 [[files]]
@@ -482,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "81961857f0fe39655790c30686914d04d4157b7408a6bf54fe36b682446449d7"
+hash = "68664647b0905d8698c65abe7619c2cdd2a04505f863826a93513c25fb7c05e3"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -490,8 +562,18 @@ hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compact-font.pw.toml"
+hash = "87752da333ccca5346d06e6b57b6111a1d2fa22da94b40cb03360e1654161441"
 metafile = true
 
 [[files]]
@@ -518,6 +600,10 @@ metafile = true
 file = "resourcepacks/ulticraft-models-3d.pw.toml"
 hash = "ee8d4b2fdde4aa669bae9cbdf09e5c79bfaf5aec0e868be304a857f66a9a1397"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
+hash = "233f8b5a7189a7111048a2526d6217772fd6a85ef2310f23ace219f22f9e2d44"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

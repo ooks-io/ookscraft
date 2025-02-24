@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Redstone 3D Numbered.zip","cullleaves:smartleaves","file/Remodeled-Doors1.4.zip","file/Better-Leaves-9.0.zip","file/UltiCraft-Models3D-2.44.0.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/crops-3d.zip","railways:green_signals"]
-incompatibleResourcePacks:["file/Redstone 3D Numbered.zip","file/Remodeled-Doors1.4.zip","file/UltiCraft-Models3D-2.44.0.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone 3D Numbered.zip","cullleaves:smartleaves","file/Remodeled-Doors1.4.zip","file/Better-Leaves-9.0.zip","file/UltiCraft-Models3D-2.44.0.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/crops-3d.zip","railways:green_signals","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/Compact Font.zip","subtle_effects:biome_color_water_particles"]
+incompatibleResourcePacks:["file/Redstone 3D Numbered.zip","file/Remodeled-Doors1.4.zip","file/UltiCraft-Models3D-2.44.0.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/Compact Font.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -72,10 +72,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
@@ -188,10 +188,10 @@ key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
 key_key.trade_cycling.cycle_trades:key.keyboard.c
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
