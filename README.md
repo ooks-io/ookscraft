@@ -56,9 +56,9 @@ My recommendation would be to use
 4. Here you can either:
 
 - Enter the following URL into the import field:
-  `https://github.com/ooks-io/ookscraft/releases/download/v1.0.0/ookscraft-1.0.0.mrpack`
+  `https://github.com/ooks-io/ookscraft/releases/download/v1.0.1/ookscraft-1.0.1.mrpack`
 - Download the latest
-  [release](https://github.com/ooks-io/ookscraft/releases/download/v1.0.0/ookscraft-1.0.0.mrpack),
+  [release](https://github.com/ooks-io/ookscraft/releases/download/v1.0.1/ookscraft-1.0.1.mrpack),
   browse and select the downloaded mrpack file.
 
 5. Go to settings and under `java` ensure `Autodetect Java version` is checked.
