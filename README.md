@@ -1,13 +1,80 @@
 <h1 align=center> ookscraft </h1>
-<p align=center><a href="https://modrinth.com/mod/create-fabric">Create mod</a> focused minecraft modpack powered by <a href="https://packwiz.infra.link">packwiz</a> and <a href="https://nixos.org">nix</a>.</p>
+<p align=center><a href="https://modrinth.com/mod/create-fabric">Create mod</a> focused minecraft modpack.
 <p align=center> ・<strong>Minecraft Version</strong>: 1.20.1 | ・<strong>Mod Loader</strong>: Fabric 0.16.10</p>
+
+## About
+
+ookscraft is a modpack built around the Create mod ecosystem, combining
+automation, exploration, and visual enhancements. Designed for my personal
+server, it offers a polished experience with performance optimization at its
+core through Fabric's ecosystem. The infrastructure for this project is managed
+with nix and packwiz.
+
+## Key features
+
+### Create ecosystem:
+
+An extensive collection of Create modules and addons that expand automation and
+engineering possibilities:
+
+- Core automation with Create
+- Tech expansions like Crafts & Additions and Enchantment Industry
+- Quality-of-life additions such as Goggles, Jetpack, and Utilities
+- Building enhancements through Deco, Framed, and Extended Cogwheels
+- Trading and villager improvements with Better Villagers and Trading Floor
+
+### Enhanced world generation:
+
+- Terralith and Tectonic for diverse and immersive biomes
+- YUNG's Better series for improved structures and dungeons
+
+### Visuals:
+
+- Comprehensive 3D resource pack collection
+- Complementary Reimagined shaders
+- Enhanced foliage with Better Leaves
+- Realistic effects through Effective
+
+[Complete mod list](#list-of-mods)
+
+## Installation
+
+This modpack is ditributed as a
+[mrpack](https://support.modrinth.com/en/articles/8802351-modrinth-modpack-format-mrpack)
+(Modrinth Modpack Format), this can be used with any launcher that supports it.
+
+My recommendation would be to use
+[Prism Launcher](https://prismlauncher.org/download) or the
+[Modrinth App](https://modrinth.com/app).
+
+<details markdown="1">
+  <summary><h3>Prism install guide</h3></summary>
+
+1. Install the [Prism Launcher](https://prismlauncher.org/download)
+2. Click the `Add Instance` button
+3. Go to `Import`
+4. Here you can either:
+
+- Enter the following URL into the import field:
+  `https://github.com/ooks-io/ookscraft/releases/download/v1.0.0/ookscraft-1.0.0.mrpack`
+- Download the latest
+  [release](https://github.com/ooks-io/ookscraft/releases/download/v1.0.0/ookscraft-1.0.0.mrpack),
+  browse and select the downloaded mrpack file.
+
+5. Go to settings and under `java` ensure `Autodetect Java version` is checked.
+6. You can now launch the and play the modpack
+
+If you would like to modify the modpack (add/remove mods, resource packs,
+shaders), right click the instance and select `Edit`.
+
+</details>
 
 ## List of mods
 
 <details>
-<summary><h3>Client Side</h3></summary>
+<summary><h3>Client side</h3></summary>
 
-#### Resource Packs
+#### Resource packs
 
 - [3D crops Revamped](https://modrinth.com/resourcepack/3d-crops)
 - [3D Models (UltiCraft Sandalone)](https://modrinth.com/resourcepack/ulticraft-models-3d)
@@ -60,7 +127,7 @@
 </details>
 
 <details>
-<summary><h3>Client & Server Side</h3></summary>
+<summary><h3>Client & server side</h3></summary>
 
 #### Mods
 
@@ -110,7 +177,7 @@
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 
-##### World Generation
+##### World generation
 
 - [Friends & Foes](https://modrinth.com/mod/friends-and-foes)
 - [Mobs of Mythology](https://modrinth.com/mod/mobs-of-mythology)
@@ -146,7 +213,7 @@
 </details>
 
 <details>
-<summary><h3>Server Side</h3></summary>
+<summary><h3>Server side</h3></summary>
 
 #### Mods
 
@@ -154,7 +221,7 @@
 
 - [Lithostitched](https://modrinth.com/mod/lithostitched)
 
-##### World Generation
+##### World generation
 
 - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
 - [Sparse Structures](https://modrinth.com/mod/sparsestructures)
