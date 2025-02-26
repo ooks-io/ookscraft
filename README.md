@@ -107,6 +107,7 @@ shaders), right click the instance and select `Edit`.
 - [Loot Journal](https://modrinth.com/mod/loot-journal)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+- [Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)
 
 ##### Visuals
 

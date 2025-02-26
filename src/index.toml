@@ -418,6 +418,11 @@ hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
+file = "mods/simple-hud-enhanced.pw.toml"
+hash = "4f12b431b7f54e3bb77ab9af0a10f6513538c119c92a18f98008055f2c66aa3f"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
 metafile = true

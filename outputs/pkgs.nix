@@ -5,14 +5,14 @@
     ...
   }: let
     inherit (lib) importTOML;
-    hash = "sha256-jQDNiR2amK5NwbERGhPYV+5ZEMQrVxZaEiuCFnu/IiM=";
+    hash = "sha256-Bba0xS2Lb0PpjX7q1WzsiyXe+sYYWpNe+TRSfJCmBv4=";
   in {
     packages = {
       # credit to https://github.com/pedorich-n/MinecraftModpack
       mrpack = pkgs.stdenvNoCC.mkDerivation (finalAttrs: let
         inherit (finalAttrs.passthru.manifest) version;
         pname = lib.strings.sanitizeDerivationName finalAttrs.passthru.manifest.name;
-        finalName = "${pname}-${version}.mrpack";
+        finalName = "${pname}-v${version}.mrpack";
       in {
         outputHashMode = "recursive";
         outputHashAlgo = "sha256";
