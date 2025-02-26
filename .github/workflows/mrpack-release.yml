@@ -21,4 +21,24 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: "${{ env.OUTPUT_PATH }}/*"
+  update-readme:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Get previous tag
+        id: previousTag
+        run: echo "tag=$(git tag --sort=-creatordate | head -n 2 | tail -n 1)" >> $GITHUB_OUTPUT 
+      - name: Update README
+        run: |
+          sed -i "s|${{ steps.previousTag.outputs.tag }}|${{ github.ref_name }}|g" README.md
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          message: 'Update README for release ${{ github.ref_name }}'
+
 
