@@ -193,6 +193,11 @@ hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6c7cfd796ed04de94465181859b963b0915e2dfce64a0c4b31129ffff505b622"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
 metafile = true

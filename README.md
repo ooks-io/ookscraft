@@ -1,14 +1,14 @@
 <h1 align=center> ookscraft </h1>
-<p align=center><a href="https://modrinth.com/mod/create-fabric">Create mod</a> focused minecraft modpack.
+<p align=center>A fabric based <a href="https://modrinth.com/mod/create-fabric">Create modpack</a>.
 <p align=center> ・<strong>Minecraft Version</strong>: 1.20.1 | ・<strong>Mod Loader</strong>: Fabric 0.16.10</p>
+<p align=center> <a href="https://github.com/ooks-io/ookscraft/releases/download/v1.0.2/ookscraft-v1.0.2.mrpack">Download: v1.0.2</a>
 
 ## About
 
-ookscraft is a modpack built around the Create mod ecosystem, combining
-automation, exploration, and visual enhancements. Designed for my personal
-server, it offers a polished experience with performance optimization at its
-core through Fabric's ecosystem. The infrastructure for this project is managed
-with nix and packwiz.
+ookscraft is a modpack built around the Create mod, combining automation,
+exploration, and visual enhancements. Designed for my personal server, it offers
+a polished experience with performance optimization at its core through Fabric's
+ecosystem. The infrastructure for this project is managed with nix and packwiz.
 
 ## Key features
 
@@ -134,6 +134,7 @@ shaders), right click the instance and select `Edit`.
 - [Indium](https://modrinth.com/mod/indium)
 - [More Culling](https://modrinth.com/mod/moreculling)
 - [Sodium](https://modrinth.com/mod/sodium)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 </details>
 
