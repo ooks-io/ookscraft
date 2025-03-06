@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "5c2f6ff94ecd19b3457d3f0cc1a05c0fa0d746066e91e19c680109fc2b53e3b7"
 
 [[files]]
+file = "config/mobs_of_mythology.properties"
+hash = "914998a73fb5c0d92b28db9ed6a84047c6e3500ca4c8fd904774431888e20614"
+
+[[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
 hash = "a7dcf75130a5cc65a27dbb023c18b4514ec0c36eca92ff95027806f0395a36c1"
 
@@ -353,6 +357,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "0823900fe8cc0fb82cc2f7852fcf09105853ffcfba98ec2d4d5c66f8543e2034"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
@@ -445,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
-metafile = true
-
-[[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "36e01db593f1e01ad0e6cb2d437f6e6b60a982997ff1cc1cfde197d84a7c8505"
 metafile = true
 
 [[files]]
