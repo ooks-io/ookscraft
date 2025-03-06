@@ -30,7 +30,7 @@
     });
   modpack = localPackwizModpack {
     inherit src;
-    packHash = "sha256-miU0zZliDXi1/WKO0UJsoQ4iTM0chHeoBpCzGskv/zU=";
+    packHash = "sha256-IK8Z8W4RRB/fwEa0xg2tRgpeq46ok73xYBgKEKp4hDg=";
   };
 
   mcVersion = modpack.manifest.versions.minecraft;
