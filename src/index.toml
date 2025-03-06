@@ -353,11 +353,6 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "3db1a41b128f7055a53dde0057880abd6fe868ea3aa5c6fbe2dc554083f526ef"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
