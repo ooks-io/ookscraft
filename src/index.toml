@@ -82,6 +82,11 @@ hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "e0fe3a15675b2f6ad147699a546a09bccd45492df57f721ffa524a2f5b380595"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/create-better-villagers.pw.toml"
 hash = "386053e559e8d1c3439a8fe5f988740ed82c4f0bb29565d18fcc8b8c8872e3eb"
+metafile = true
+
+[[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "e74d1147010dbae8eb9c9632a443c4dd0772d3c2281d1ae20c6ff88d1ff9726e"
 metafile = true
 
 [[files]]
@@ -169,6 +179,16 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "4dbfc7d3ec58848f2978856ef4069e96c4ac0eb303d2a534085d681f6ab4cef6"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "b349813927154f2bc111425dbad6f3553d41203994d297b967cf6671f386fad5"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "a673d19b9dd06a4521e90ea9247b7a9e9ffe3d60a67e12f562ee25981c47d268"
 metafile = true
 
 [[files]]

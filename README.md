@@ -176,6 +176,7 @@ shaders), right click the instance and select `Edit`.
 - [JourneyMap](https://modrinth.com/mod/journeymap)
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [Vanilla Refresh](https://modrinth.com/mod/vanilla-refresh)
+- [Carpet](https://modrinth.com/mod/carpet)
 
 ##### UI
 
@@ -212,6 +213,9 @@ shaders), right click the instance and select `Edit`.
 - [Create Ore Excavation](https://modrinth.com/mod/create-ore-excavation)
 - [Create Utilities](https://modrinth.com/mod/create-utilities)
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
+- [Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory)
+- [Create: Trimmed](https://modrinth.com/mod/create-trimmed)
+- [Create: Copper & Zinc](https://modrinth.com/mod/create-copper-zinc)
 - [Create: Better Villagers](https://modrinth.com/mod/create-better-villagers)
 - [Create: Copycats+](https://modrinth.com/mod/copycats)
 - [Create: Extended Cogwheels](https://modrinth.com/mod/extended-cogwheels)
