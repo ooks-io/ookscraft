@@ -1,7 +1,7 @@
 <h1 align=center> ookscraft </h1>
 <p align=center>A fabric based <a href="https://modrinth.com/mod/create-fabric">Create modpack</a>.
 <p align=center> ・<strong>Minecraft Version</strong>: 1.20.1 | ・<strong>Mod Loader</strong>: Fabric 0.16.10</p>
-<p align=center> <a href="https://github.com/ooks-io/ookscraft/releases/download/v1.0.2/ookscraft-v1.0.2.mrpack">Download: v1.0.2</a>
+<p align=center> <a href="https://github.com/ooks-io/ookscraft/releases/download/v1.0.4/ookscraft-v1.0.4.mrpack">Download: v1.0.4</a>
 
 ## About
 
@@ -56,9 +56,9 @@ My recommendation would be to use
 4. Here you can either:
 
 - Enter the following URL into the import field:
-  `https://github.com/ooks-io/ookscraft/releases/download/v1.0.2/ookscraft-v1.0.2.mrpack`
+  `https://github.com/ooks-io/ookscraft/releases/download/v1.0.4/ookscraft-v1.0.4.mrpack`
 - Download the latest
-  [release](https://github.com/ooks-io/ookscraft/releases/download/v1.0.2/ookscraft-v1.0.2.mrpack),
+  [release](https://github.com/ooks-io/ookscraft/releases/download/v1.0.4/ookscraft-v1.0.4.mrpack),
   browse and select the downloaded mrpack file.
 
 5. Go to settings and under `java` ensure `Autodetect Java version` is checked.
