@@ -1,13 +1,13 @@
 name = "3D Redstone Wires"
-filename = "Redstone 3D Numbered.zip"
+filename = "3D-Redstone numbered dot-to-paw.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tIgl7EnR/versions/yXcG97Vd/Redstone%203D%20Numbered.zip"
+url = "https://cdn.modrinth.com/data/tIgl7EnR/versions/CKXBMRy8/3D-Redstone%20numbered%20dot-to-paw.zip"
 hash-format = "sha512"
-hash = "302f226ec2ae5551eee693ad67707d753f5d658180a19f0512fc611519625b069f3733e098656afcf17435ec361121b02f79c2be0a6588e026278e0847f3a28f"
+hash = "e1eef6ef4af5a759c430c0915ded7726b97a69aed761e1fcb4350f3ee00aa19906936ba725dc0fe3953946d09e6de11d05430fe29d1090ac3dc0c667a52387b4"
 
 [update]
 [update.modrinth]
 mod-id = "tIgl7EnR"
-version = "yXcG97Vd"
+version = "CKXBMRy8"

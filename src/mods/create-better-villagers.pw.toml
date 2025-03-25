@@ -1,13 +1,13 @@
 name = "Create: Better Villagers"
-filename = "create-better-villagers-1.2.5.j-Fabric-1.20.1.jar"
+filename = "create-better-villagers-1.2.7-Fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kS90mr4y/versions/MQvMWNYT/create-better-villagers-1.2.5.j-Fabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/kS90mr4y/versions/FePaC2bd/create-better-villagers-1.2.7-Fabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "1e094c4a0f2fe7faa67b29548c5ca6007f648593f6957fdaf73f5206f990627a1a50bb13577a8e64b34b33bea62a831f507c999289f1985866f375847f96b896"
+hash = "2024b05d03f1e59b3cb64f8daf483de273e59a4efbf7d4fcb8ddc3682166b097fb17bacf938e9cfbaabbabd1869aafd8869f0f0cd93726ca26d2d5db0ab7afb8"
 
 [update]
 [update.modrinth]
 mod-id = "kS90mr4y"
-version = "MQvMWNYT"
+version = "FePaC2bd"

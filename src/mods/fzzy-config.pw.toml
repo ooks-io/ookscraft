@@ -1,13 +1,13 @@
 name = "Fzzy Config"
-filename = "fzzy_config-0.6.4+1.20.1.jar"
+filename = "fzzy_config-0.6.7+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/BIPkBXuQ/fzzy_config-0.6.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/QDZRepiQ/fzzy_config-0.6.7%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "5251d795b6a294c5eb0a1470b30cf84e465a7ed0f530882f3a0178362e55f4bfa38b2a16b781e5a8279d27e33ab843be8980fc47dc4722e711dd73f3282a4200"
+hash = "09a3696604a3c4371272d8b617c697135afaa659a4587fa864e6004ceea735344a8f0283fcc585a0f659d119baf1c0547aecc8a068fb2c9d18cbeeac8c3492bd"
 
 [update]
 [update.modrinth]
 mod-id = "hYykXjDp"
-version = "BIPkBXuQ"
+version = "QDZRepiQ"
